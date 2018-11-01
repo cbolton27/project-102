@@ -1,0 +1,158 @@
+/*========BASE STYLES=======*/
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*========BASE STYLES=======*/
+
+/*===========GRID==========*/
+
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.half-container{
+	width: 600px;
+	float: left;
+}
+
+.third-container{
+	width: 400px;
+	float: left;
+
+}
+
+/*===========GRID==========*/
+
+/*==========HEADER=========*/
+
+header h1 span{
+	color: #77a466;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 23px;
+	text-transform: uppercase;
+}
+
+header h1{
+	color: #000000;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 23px;
+	padding-top: 50px;
+	text-transform: uppercase;
+}
+
+/*==========HEADER=========*/
+
+/*===========NAV===========*/
+nav{
+	float: right;
+	margin: 50px 0;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline-block;
+	padding-right: 20px;
+}
+
+nav ul li a{
+	color: #77a466;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+/*===========NAV===========*/
+
+/*=========WELCOME=========*/
+
+#green-beans{
+	border-top: 3px solid #77a466;
+	border-bottom: 3px solid #77a466;
+}
+
+#welcome h2{
+	color: #77a466;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 23px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	text-transform: uppercase;
+}
+
+#welcome p{
+	font-size: 16px;
+	line-height: 25px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+/*=========WELCOME=========*/
+
+#specials #reviews #contact{
+	padding: 25px;
+}
+
+/*=========SPECIALS========*/
+
+#specials h4{
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 25px;
+}
+
+#specials ul{
+	list-style: none;
+}
+
+#specials ul li a{
+	color: #77a466;
+	font-size: 16px;
+	line-height: 18px;
+	text-decoration: none;
+}
+
+/*=========SPECIALS========*/
+
+/*==========REVIEWS========*/
+
+#reviews p{
+	font-size: 16px;
+	line-height: 21px;
+}
+
+/*==========REVIEWS========*/
+
+/*==========CONTACT========*/
+
+#contact p{
+	font-size: 16px;
+	line-height: 24px;
+}
+
+/*==========CONTACT========*/
+
+/*==========FOOTER=========*/
+
+footer h3{
+	clear: both;
+	font-size: 16px;
+	line-height: 23px;
+	text-align: center;
+}
+
+footer h3 span{
+	color: #77a466;
+	font-family: 'Meie Script', sans-serif;
+}
